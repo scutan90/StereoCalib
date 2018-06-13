@@ -1,0 +1,10 @@
+calib_pic
+Debug
+Release
+single_calib_pic
+test_pic
+输出
+*.jpg
+*.yml
+*.vcxproj*
+
